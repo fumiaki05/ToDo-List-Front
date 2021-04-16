@@ -18,6 +18,7 @@ function App() {
         >
           Learn React hoge
         </a>
+        <button className="square">This is Test Button </button>
       </header>
     </div>
   );
